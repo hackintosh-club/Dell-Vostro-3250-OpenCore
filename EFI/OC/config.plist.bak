@@ -961,9 +961,9 @@
 				<key>ForgeUefiSupport</key>
 				<false/>
 				<key>IgnoreInvalidFlexRatio</key>
-				<false/>
+				<true/>
 				<key>ReleaseUsbOwnership</key>
-				<false/>
+				<true/>
 				<key>ReloadOptionRoms</key>
 				<false/>
 				<key>RequestBootVarRouting</key>
@@ -977,7 +977,7 @@
 				<key>TscSyncTimeout</key>
 				<integer>0</integer>
 				<key>UnblockFsConnect</key>
-				<false/>
+				<true/>
 			</dict>
 			<key>ReservedMemory</key>
 			<array/>
